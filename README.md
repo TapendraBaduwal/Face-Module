@@ -10,3 +10,9 @@ The use of the OpenCV library with MediaPipe, Face Recognition library and the S
 source venv/bin/activate
 
 streamlit run streamlit.py
+
+
+
+![gif](https://github.com/TapendraBaduwal/Face-Module/blob/master/face_module.gif)
+
+
